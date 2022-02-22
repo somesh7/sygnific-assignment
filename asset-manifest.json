@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/syginfic-assignment/static/css/main.9cc93366.css",
+    "main.js": "/syginfic-assignment/static/js/main.a3b5cd20.js",
+    "static/js/787.427fe747.chunk.js": "/syginfic-assignment/static/js/787.427fe747.chunk.js",
+    "static/media/college_02.jpg": "/syginfic-assignment/static/media/college_02.cfdc998424523998a448.jpg",
+    "index.html": "/syginfic-assignment/index.html",
+    "main.9cc93366.css.map": "/syginfic-assignment/static/css/main.9cc93366.css.map",
+    "main.a3b5cd20.js.map": "/syginfic-assignment/static/js/main.a3b5cd20.js.map",
+    "787.427fe747.chunk.js.map": "/syginfic-assignment/static/js/787.427fe747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc93366.css",
+    "static/js/main.a3b5cd20.js"
+  ]
+}
